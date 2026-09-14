@@ -1,0 +1,4 @@
+#Tue Sep 15 01:19:47 IST 2026
+base.0=C\:\\Users\\L i q u i d\\Music\\Project\\SPACEE-V1\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

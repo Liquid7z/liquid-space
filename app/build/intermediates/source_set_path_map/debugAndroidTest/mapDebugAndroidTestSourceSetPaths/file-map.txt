@@ -1,0 +1,4 @@
+com.spacee.student.test.app-androidTest-0 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\generated\res\resValues\androidTest\debug
+com.spacee.student.test.app-mergeDebugAndroidTestResources-1 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.spacee.student.test.app-mergeDebugAndroidTestResources-2 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.spacee.student.test.app-debugAndroidTest-3 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

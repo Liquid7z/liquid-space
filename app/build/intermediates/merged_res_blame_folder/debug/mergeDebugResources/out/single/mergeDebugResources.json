@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.spacee.student.app-debug-55:/drawable-nodpi_ic_launcher.png.flat",
+        "source": "com.spacee.student.app-main-57:/drawable-nodpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.spacee.student.app-debug-55:/drawable-nodpi_liquid_space_logo.png.flat",
+        "source": "com.spacee.student.app-main-57:/drawable-nodpi/liquid_space_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\L i q u i d\\.gradle\\daemon\\9.3.0\\com.spacee.student.app-debug-55:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\L i q u i d\\.gradle\\daemon\\9.3.0\\com.spacee.student.app-main-57:\\xml\\file_paths.xml"
+    }
+]
