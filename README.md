@@ -26,28 +26,28 @@ Liquid Space is a premium, local-first student document organizer for Android. O
 ### Home
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="300" alt="Liquid Space Home">
+  <img src="home.jpg" width="300" alt="Liquid Space Home">
 </p>
 
 ### Subject & Gallery
 
 <p align="center">
-  <img src="screenshots/subject-practical.jpg" width="300" alt="Subject practical screen">
-  <img src="screenshots/gallery.jpg" width="300" alt="Liquid Space gallery">
+  <img src="subject-practical.jpg" width="300" alt="Subject practical screen">
+  <img src="gallery.jpg" width="300" alt="Liquid Space gallery">
 </p>
 
 ### Themes
 
 <p align="center">
-  <img src="screenshots/settings-themes.jpg" width="300" alt="Liquid Space themes">
+  <img src="settings-themes.jpg" width="300" alt="Liquid Space themes">
 </p>
 
 ### Share & Import
 
 <p align="center">
-  <img src="screenshots/share-to-liquid-space.jpg" width="300" alt="Share to Liquid Space">
-  <img src="screenshots/import-subject.jpg" width="300" alt="Choose subject">
-  <img src="screenshots/import-category.jpg" width="300" alt="Choose category">
+  <img src="share-to-liquid-space.jpg" width="300" alt="Share to Liquid Space">
+  <img src="import-subject.jpg" width="300" alt="Choose subject">
+  <img src="import-category.jpg" width="300" alt="Choose category">
 </p>
 
 ## 🔐 Local-first
