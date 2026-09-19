@@ -26,7 +26,7 @@ Liquid Space is a premium, local-first student document organizer for Android. O
 ### Home
 
 <p align="center">
-  <img src="home.jpg" width="300" alt="Liquid Space Home">
+  <img src="settings-theme.jpg" width="300" alt="Liquid Space Home">
 </p>
 
 ### Subject & Gallery
@@ -39,7 +39,7 @@ Liquid Space is a premium, local-first student document organizer for Android. O
 ### Themes
 
 <p align="center">
-  <img src="settings-themes.jpg" width="300" alt="Liquid Space themes">
+  <img src="home.jpg" width="300" alt="Liquid Space themes">
 </p>
 
 ### Share & Import
