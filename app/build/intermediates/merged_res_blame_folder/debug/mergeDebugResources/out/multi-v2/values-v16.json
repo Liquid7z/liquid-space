@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.spacee.student.app-mergeDebugResources-53:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\L i q u i d\\.gradle\\caches\\9.3.0\\transforms\\e9730de19db85986bf3629574863f03a\\workspace\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
