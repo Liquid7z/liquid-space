@@ -1,4 +1,4 @@
-# Liquid Space 6.2
+# Liquid Space 3.0
 
 > **Your Notes. Your Space. Your Device.** 📚
 
