@@ -1,4 +1,4 @@
-# Liquid Space 6.2
+# Liquid Space 3.0
 
 > **Your Notes. Your Space. Your Device.** 📚
 
@@ -32,7 +32,7 @@ Liquid Space is a premium, local-first student document organizer for Android. O
 ### Home
 
 <p align="center">
-  <img src="home.jpg" width="300" alt="Liquid Space Home">
+  <img src="homep.jpg" width="300" alt="Liquid Space Home">
 </p>
 
 ### Subject & Gallery
