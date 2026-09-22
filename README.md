@@ -1,4 +1,4 @@
-# Liquid Space 3.0
+# Liquid Space 6.2
 
 > **Your Notes. Your Space. Your Device.** 📚
 
@@ -19,7 +19,7 @@ Liquid Space is a premium, local-first student document organizer for Android. O
 - 🎨 Multiple visual themes
 - 🗑️ Long-press subject deletion with confirmation
 - 🔐 Local-first storage
-- ☕ Buy Me a Coffee support button
+- 💳 Razorpay support button with custom-amount payment page
 - ⭐ Favorites, recent files, trash and restore
 - 📦 ZIP/PDF export with configurable PDF names
 - 📤 Normal sharing sends original files without re-encoding or watermarking
@@ -32,7 +32,7 @@ Liquid Space is a premium, local-first student document organizer for Android. O
 ### Home
 
 <p align="center">
-  <img src="homep.jpg" width="300" alt="Liquid Space Home">
+  <img src="home.jpg" width="300" alt="Liquid Space Home">
 </p>
 
 ### Subject & Gallery
@@ -69,7 +69,7 @@ Liquid Space stores imported documents locally on the device. Core organization 
 - Material 3
 - Android Storage APIs
 - App-private local storage
-- WebView for the Buy Me a Coffee widget
+- External Razorpay payment page for secure support contributions
 
 ## ⚡ Performance & compatibility
 
@@ -129,7 +129,7 @@ Liquid Space targets Android 8.0+ (API 26+) and is designed to stay responsive a
 - Privacy dashboard.
 
 ### Support
-- Buy Me a Coffee support action remains available from the home header and Settings.
+- Razorpay support action is available from the home header and Settings; users can contribute any amount through the hosted payment page.
 
 
 ## Liquid Space 4.0 — Sharing & Motion Update
