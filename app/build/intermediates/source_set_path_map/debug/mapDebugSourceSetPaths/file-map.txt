@@ -49,10 +49,9 @@ com.spacee.student.app-appcompat-1.2.0-47 C:\Users\L i q u i d\.gradle\caches\9.
 com.spacee.student.app-activity-1.10.0-48 C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\ec1c32026e12a8c98d0aaa6a376c44cd\workspace\transformed\activity-1.10.0\res
 com.spacee.student.app-lifecycle-viewmodel-compose-release-49 C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\f3c70103c6ea7e496bd53f70fd4f97e1\workspace\transformed\lifecycle-viewmodel-compose-release\res
 com.spacee.student.app-core-ktx-1.15.0-50 C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\f58ffa969d15b40143916b28fc129d51\workspace\transformed\core-ktx-1.15.0\res
-com.spacee.student.app-pngs-51 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\generated\res\pngs\debug
-com.spacee.student.app-resValues-52 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\generated\res\resValues\debug
-com.spacee.student.app-packageDebugResources-53 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.spacee.student.app-packageDebugResources-54 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.spacee.student.app-debug-55 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.spacee.student.app-debug-56 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\debug\res
-com.spacee.student.app-main-57 C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\res
+com.spacee.student.app-resValues-51 C:\Users\L i q u i d\Music\ls\app\build\generated\res\resValues\debug
+com.spacee.student.app-packageDebugResources-52 C:\Users\L i q u i d\Music\ls\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.spacee.student.app-packageDebugResources-53 C:\Users\L i q u i d\Music\ls\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.spacee.student.app-debug-54 C:\Users\L i q u i d\Music\ls\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.spacee.student.app-debug-55 C:\Users\L i q u i d\Music\ls\app\src\debug\res
+com.spacee.student.app-main-56 C:\Users\L i q u i d\Music\ls\app\src\main\res

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.spacee.student"
-    android:versionCode="2"
-    android:versionName="2.0.0" >
+    android:versionCode="10"
+    android:versionName="6.2.3" >
 
     <uses-sdk
         android:minSdkVersion="26"
@@ -23,13 +23,19 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:extractNativeLibs="false"
+        android:hardwareAccelerated="true"
         android:icon="@drawable/ic_launcher"
         android:label="Liquid Space"
+        android:largeHeap="false"
+        android:resizeableActivity="true"
         android:roundIcon="@drawable/ic_launcher"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LiquidSpace" >
+        android:testOnly="true"
+        android:theme="@style/Theme.LiquidSpace"
+        android:usesCleartextTraffic="false" >
         <activity
             android:name="com.spacee.student.MainActivity"
+            android:enableOnBackInvokedCallback="true"
             android:exported="true"
             android:launchMode="singleTop" >
             <intent-filter>

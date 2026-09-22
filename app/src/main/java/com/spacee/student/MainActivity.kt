@@ -499,22 +499,26 @@ class MainActivity : FragmentActivity() {
     }
 
     @Composable private fun HeroHeadline(){
-        val phrases=listOf("Everything in place.","Study, simplified.","Your files. Your space.")
-        var index by remember{mutableIntStateOf(0)}
-        var visible by remember{mutableStateOf("")}
+        val phrases=listOf("Everything in place","Study simplified","Your files. Your space.")
+        var visible by remember{mutableStateOf(phrases.last())}
         LaunchedEffect(Unit){
-            while(true){
-                val phrase=phrases[index%phrases.size]
-                for(i in 0..phrase.length){
-                    visible=phrase.take(i)
-                    kotlinx.coroutines.delay(42)
+            // Play the headline animation only once on the app's first launch.
+            // After it has played, keep the final phrase visible without replaying
+            // when Home recomposes or the user navigates back to it.
+            val prefs=getSharedPreferences("liquid_space_prefs", MODE_PRIVATE)
+            val hasPlayed=prefs.getBoolean("hero_headline_played", false)
+            if(!hasPlayed){
+                for(phrase in phrases){
+                    for(i in 0..phrase.length){
+                        visible=phrase.take(i)
+                        kotlinx.coroutines.delay(42)
+                    }
+                    if(phrase != phrases.last()) kotlinx.coroutines.delay(1450)
                 }
-                kotlinx.coroutines.delay(1450)
-                for(i in phrase.length downTo 0){
-                    visible=phrase.take(i)
-                    kotlinx.coroutines.delay(22)
-                }
-                index++
+                visible=phrases.last()
+                prefs.edit().putBoolean("hero_headline_played", true).apply()
+            }else{
+                visible=phrases.last()
             }
         }
         Surface(
@@ -525,7 +529,7 @@ class MainActivity : FragmentActivity() {
         ){
             Column(Modifier.padding(horizontal=20.dp,vertical=20.dp)){
                 Text(
-                    visible.ifBlank{"Everything in place."},
+                    visible.ifBlank{"Everything in place"},
                     style=MaterialTheme.typography.headlineMedium,
                     color=MaterialTheme.colorScheme.onSurface,
                     minLines=1

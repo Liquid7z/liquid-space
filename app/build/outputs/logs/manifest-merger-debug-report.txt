@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:26:5-34:16
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:30:5-38:16
 	android:grantUriPermissions
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:30:9-43
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:34:9-43
 	android:authorities
-		INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:28:9-56
+		INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:32:9-56
 	android:exported
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:29:9-33
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:33:9-33
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:27:9-58
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:31:9-58
 manifest
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:1:1-36:12
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:1:1-36:12
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:1:1-40:12
 MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\554e0f646126d951969c528f72f250f2\workspace\transformed\biometric-1.1.0\AndroidManifest.xml:17:1-29:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\e9730de19db85986bf3629574863f03a\workspace\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\93423fa63ba2c4de85e7bfb435c424e3\workspace\transformed\fragment-1.8.5\AndroidManifest.xml:2:1-7:12
@@ -52,12 +52,12 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\L i q u i d\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\56e240a413f6005b0b09c6448020bb42\workspace\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\cc0decf3b5d0858b2de87895adb1016f\workspace\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\db3e2d7c9408ae001c54278a9e47bd9c\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\10c0e439fddb0a5b704159da6ae0810c\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\c7a814811309b96cfa29e2937f2c9465\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\75441f160c9d9b020f85ef1e2b049b87\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\408fb619174a22c5fa3fa207b45fb61d\workspace\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\21fdae512087ac62472827f93f321958\workspace\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\3ed212c105a40c8cb465e34026b95219\workspace\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\10c0e439fddb0a5b704159da6ae0810c\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\1cbce237b04f114c52be5f3d438e70ca\workspace\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\f3c70103c6ea7e496bd53f70fd4f97e1\workspace\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-icons-extended-android:1.7.6] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\5e32cddcbbd63eb3ef2ef795210cf4d0\workspace\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
@@ -67,6 +67,8 @@ MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\L i q u i d\.gradle
 MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\e08875e0d8bccffe1134f7066050ba0f\workspace\transformed\activity-compose-1.10.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\099321374dc17d8a27af52841f80ac8f\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\f58ffa969d15b40143916b28fc129d51\workspace\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\010bb1e0faac5171c75d3d5379044c27\workspace\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\5dc762bb26d410886bf3c60ee534ba7a\workspace\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\d6ad6212cdc0565bb6431ab94597c5c6\workspace\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\2213cb9793bd0c92ccf13decc23462e7\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\9d30bb30450c18fdb29f93229d489256\workspace\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
@@ -74,25 +76,23 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\L i q u i d\.gradl
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\8817ad9c6550b9b007da78bbac3893d5\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\36f362651e249793135fbb43ddf6bf73\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\dd14f0536df61eefb19294de5254729a\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\010bb1e0faac5171c75d3d5379044c27\workspace\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\5dc762bb26d410886bf3c60ee534ba7a\workspace\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\d22763bd1dbec98f1206641f83666bb7\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\e674f2441bfcb697dff2a37cf1623611\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:2:5-67
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:2:5-67
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:2:22-64
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:2:22-64
 application
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:3:5-35:19
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:3:5-35:19
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:3:5-39:19
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:3:5-39:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\1147786476c54330f06ea8332470f0b6\workspace\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\1147786476c54330f06ea8332470f0b6\workspace\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\30f69a04849dec91e7086907382c7f30\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
@@ -108,69 +108,79 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\L i q u i d\.gradl
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\36f362651e249793135fbb43ddf6bf73\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\36f362651e249793135fbb43ddf6bf73\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.15.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\c4b8145bad310f05ffe55b433fc50e45\workspace\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:5:9-37
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:9:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:4:9-43
+	android:resizeableActivity
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:6:9-42
 	android:roundIcon
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:7:9-50
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:11:9-50
+	android:largeHeap
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:5:9-34
 	android:icon
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:6:9-45
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:10:9-45
 	android:allowBackup
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:4:9-49
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:8:9-49
+	android:usesCleartextTraffic
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:7:9-45
 activity#com.spacee.student.MainActivity
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:10:9-25:20
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:14:9-29:20
 	android:launchMode
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:10:72-102
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:14:72-102
 	android:exported
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:10:48-71
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:14:48-71
+	android:enableOnBackInvokedCallback
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:14:103-145
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:10:19-47
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:11:13-14:29
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:12:17-68
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:16:17-68
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:12:25-66
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:13:17-76
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:13:27-74
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:17:27-74
 intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.SEND
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:16:17-68
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:20:17-68
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:17:17-75
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:21:17-75
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:17:27-73
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:21:27-73
 data
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:18:17-47
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:22:17-47
 	android:mimeType
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:18:23-45
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:22:23-45
 intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.SEND_MULTIPLE
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:21:25-75
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:25:25-75
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:31:9-33:50
+ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:35:9-37:50
 	android:resource
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:33:13-47
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:37:13-47
 	android:name
-		ADDED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml:32:13-63
+		ADDED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml:36:13-63
 uses-sdk
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
 MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\554e0f646126d951969c528f72f250f2\workspace\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.biometric:biometric:1.1.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\554e0f646126d951969c528f72f250f2\workspace\transformed\biometric-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\e9730de19db85986bf3629574863f03a\workspace\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -245,8 +255,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\L i q u i d\
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\cc0decf3b5d0858b2de87895adb1016f\workspace\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\db3e2d7c9408ae001c54278a9e47bd9c\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\db3e2d7c9408ae001c54278a9e47bd9c\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\10c0e439fddb0a5b704159da6ae0810c\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\10c0e439fddb0a5b704159da6ae0810c\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\c7a814811309b96cfa29e2937f2c9465\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\c7a814811309b96cfa29e2937f2c9465\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\75441f160c9d9b020f85ef1e2b049b87\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
@@ -257,6 +265,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\L i 
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\21fdae512087ac62472827f93f321958\workspace\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\3ed212c105a40c8cb465e34026b95219\workspace\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\3ed212c105a40c8cb465e34026b95219\workspace\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\10c0e439fddb0a5b704159da6ae0810c\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\10c0e439fddb0a5b704159da6ae0810c\workspace\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\1cbce237b04f114c52be5f3d438e70ca\workspace\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\1cbce237b04f114c52be5f3d438e70ca\workspace\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\f3c70103c6ea7e496bd53f70fd4f97e1\workspace\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
@@ -275,6 +285,10 @@ MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\L i
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\099321374dc17d8a27af52841f80ac8f\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\f58ffa969d15b40143916b28fc129d51\workspace\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\f58ffa969d15b40143916b28fc129d51\workspace\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\010bb1e0faac5171c75d3d5379044c27\workspace\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\010bb1e0faac5171c75d3d5379044c27\workspace\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\5dc762bb26d410886bf3c60ee534ba7a\workspace\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\5dc762bb26d410886bf3c60ee534ba7a\workspace\transformed\runtime-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\d6ad6212cdc0565bb6431ab94597c5c6\workspace\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\d6ad6212cdc0565bb6431ab94597c5c6\workspace\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\2213cb9793bd0c92ccf13decc23462e7\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
@@ -289,18 +303,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\L 
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\36f362651e249793135fbb43ddf6bf73\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\dd14f0536df61eefb19294de5254729a\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\dd14f0536df61eefb19294de5254729a\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\010bb1e0faac5171c75d3d5379044c27\workspace\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\010bb1e0faac5171c75d3d5379044c27\workspace\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\5dc762bb26d410886bf3c60ee534ba7a\workspace\transformed\runtime-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\5dc762bb26d410886bf3c60ee534ba7a\workspace\transformed\runtime-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\d22763bd1dbec98f1206641f83666bb7\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\d22763bd1dbec98f1206641f83666bb7\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\e674f2441bfcb697dff2a37cf1623611\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\e674f2441bfcb697dff2a37cf1623611\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\L i q u i d\Music\Project\SPACEE-V1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\L i q u i d\Music\ls\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.USE_BIOMETRIC
 ADDED from [androidx.biometric:biometric:1.1.0] C:\Users\L i q u i d\.gradle\caches\9.3.0\transforms\554e0f646126d951969c528f72f250f2\workspace\transformed\biometric-1.1.0\AndroidManifest.xml:24:5-72
 	android:name
